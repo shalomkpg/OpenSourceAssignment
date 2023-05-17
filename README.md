@@ -23,6 +23,8 @@
 $ top
 ```
 
+![BSD-unix-top-plain](https://github.com/shalomkpg/OpenSourceAssignment/assets/133830026/a74d41d9-e358-414c-9035-30e117753290)
+
 ## `ps` 명령어
 
 `ps` 명령어는 현재 실행 중인 프로세스 목록을 표시하는 유틸리티입니다. 다양한 옵션을 사용하여 원하는 형식으로 출력할 수 있습니다. 주요 옵션은 다음과 같습니다:
@@ -39,6 +41,8 @@ $ ps -e
 $ ps -f
 $ ps -u <사용자>
 ```
+
+![PPID](https://github.com/shalomkpg/OpenSourceAssignment/assets/133830026/172e5cfb-b300-4479-bb4e-062f24aeb33b)
 
 ## `job` 명령어
 
